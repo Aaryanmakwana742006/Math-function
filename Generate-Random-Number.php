@@ -3,7 +3,7 @@
     <title>Generate Random Number</title>
 </head>
 <body>
-    <form method="post" action="index1.php">
+    <form method="post" action="Generate-Random-Number1.php">
         <button type="submit">Generate Random Number</button>
     </form>
     <?php
